@@ -1,0 +1,6 @@
+TrafficSignData
+__py*
+models*
+*.pt
+wandb
+yolo_data
