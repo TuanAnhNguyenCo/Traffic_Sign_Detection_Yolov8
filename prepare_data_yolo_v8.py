@@ -1,4 +1,4 @@
-from opts import parse_opts_offline
+from opts1 import parse_opts_offline
 import os
 import xml.etree.ElementTree as ET
 import shutil
